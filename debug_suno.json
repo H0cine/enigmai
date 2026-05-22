@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "taskId": "310152de3277b0db898f8231f897ca28",
+    "parentMusicId": "",
+    "param": "{\"callBackUrl\":\"https://example.com/webhook\",\"customMode\":true,\"instrumental\":true,\"model\":\"V4_5\",\"prompt\":\"Suno, play a slow Gagaku melody with Shakuhachi, Koto, and Shamisen, evoking serene cherry blossom trees and samurai honor\",\"title\":\"La Danse des Fleurs de Cerisier\"}",
+    "response": {
+      "taskId": "310152de3277b0db898f8231f897ca28",
+      "sunoData": [
+        {
+          "id": "9027042d-b159-4f90-adc6-3173d7baf39e",
+          "audioUrl": "https://tempfile.aiquickdraw.com/r/1ef2821980dd49eab918a49ffa325202.mp3",
+          "sourceAudioUrl": "https://cdn1.suno.ai/9027042d-b159-4f90-adc6-3173d7baf39e.mp3",
+          "streamAudioUrl": "https://musicfile.removeai.ai/OTAyNzA0MmQtYjE1OS00ZjkwLWFkYzYtMzE3M2Q3YmFmMzll",
+          "sourceStreamAudioUrl": "https://cdn1.suno.ai/9027042d-b159-4f90-adc6-3173d7baf39e.mp3",
+          "imageUrl": "https://musicfile.removeai.ai/OTAyNzA0MmQtYjE1OS00ZjkwLWFkYzYtMzE3M2Q3YmFmMzll.jpeg",
+          "sourceImageUrl": "https://cdn2.suno.ai/image_9027042d-b159-4f90-adc6-3173d7baf39e.jpeg",
+          "prompt": "",
+          "modelName": "chirp-auk",
+          "title": "La Danse des Fleurs de Cerisier",
+          "tags": "",
+          "createTime": 1779390051171,
+          "duration": 272.12
+        },
+        {
+          "id": "e8e3b398-e5ce-4e8a-b8e2-0fd746d5c818",
+          "audioUrl": "https://tempfile.aiquickdraw.com/r/912c3a8fa5c540be9b3b514f7f8ba42d.mp3",
+          "sourceAudioUrl": "https://cdn1.suno.ai/e8e3b398-e5ce-4e8a-b8e2-0fd746d5c818.mp3",
+          "streamAudioUrl": "https://musicfile.removeai.ai/ZThlM2IzOTgtZTVjZS00ZThhLWI4ZTItMGZkNzQ2ZDVjODE4",
+          "sourceStreamAudioUrl": "https://cdn1.suno.ai/e8e3b398-e5ce-4e8a-b8e2-0fd746d5c818.mp3",
+          "imageUrl": "https://musicfile.removeai.ai/ZThlM2IzOTgtZTVjZS00ZThhLWI4ZTItMGZkNzQ2ZDVjODE4.jpeg",
+          "sourceImageUrl": "https://cdn2.suno.ai/image_e8e3b398-e5ce-4e8a-b8e2-0fd746d5c818.jpeg",
+          "prompt": "",
+          "modelName": "chirp-auk",
+          "title": "La Danse des Fleurs de Cerisier",
+          "tags": "",
+          "createTime": 1779390051171,
+          "duration": 211.96
+        }
+      ]
+    },
+    "status": "SUCCESS",
+    "type": "chirp-auk",
+    "operationType": "generate",
+    "errorCode": null,
+    "errorMessage": null,
+    "createTime": 1779389953000
+  }
+}
